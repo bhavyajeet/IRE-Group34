@@ -1,0 +1,75 @@
+village_district_block=
+यह विद्यालय  $village गाँव में स्थित है। यह गाँव  $district जिले में  $block श्रेणी में है।
+
+CODE=
+स्कूल का एकीकृत जिला सूचना शिक्षा प्रणाली (U-DISE) कोड  $code है।
+
+BOTH_GENDER_CATEGORY=
+यह एक सह-शिक्षा विद्यालय है।
+यह एक लड़कों का और लड़कियों का स्कूल है।
+
+BOYS_GENDER_CATEGORY=
+यह लड़कों का स्कूल है।
+
+GIRLS_GENDER_CATEGORY=
+यह एक लड़कियों का स्कूल है।
+
+BOTH_STUDENT_COUNT=
+इस स्कूल में  $bcount बालक और  $gcount बालिकाएं है और कुल  $total विद्यार्थी है|
+
+BOYS_STUDENT_COUNT=
+यहां पढ़ने वाले लड़कों की संख्या  $bcount है। 
+
+GIRLS_STUDENT_COUNT
+$gcount लड़कियां इस स्कूल में पढ़ रही हैं।
+
+BOTH_TEACHER_COUNT=
+इस स्कूल में कुल  $total अध्यापक है जिनमे से $mcount पुरुष और $fcount महिलाएं है |
+
+MALE_TEACHER_COUNT=
+स्कूल में  $mcount शिक्षक हैं, जिनमें से सभी पुरुष हैं।
+
+FEMALE_TEACHER_COUNT=
+स्कूल में  $mcount शिक्षिका  हैं, वह सभी महिलाएं हैं |
+
+ONE_TEACHER_MALE=
+यह वन-टीचर स्कूल है। इस स्कूल में एक शिक्षक है।
+
+ONE_TEACHER_FEMALE=
+यह वन-टीचर स्कूल है। इस स्कूल में एक महिला शिक्षक है।
+
+SCHOOL_CATEGORY_PVTAID=
+यह एक निजी सहायता प्राप्त स्कूल है।
+
+SCHOOL_CATEGORY_PVT=
+यह एक निजी स्कूल है।
+
+SCHOOL_CATEGORY_KGBV=
+यह एक कस्तूरबा गांधी बालिका विद्यालय (केजीबीवी) है। 
+
+SCHOOL_CATEGORY_MPPS=
+यह एक मंडल प्रजा परिषद प्राथमिक विद्यालय (एमपीपीएस) है।
+
+SCHOOL_CATEGORY_MPUPS=
+यह एक मंडल प्रजा परिषद प्राथमिक विद्यालय (MPUPS) है। 
+
+SCHOOL_CATEGORY_ZPPS=
+यह एक जिला परिषद प्राथमिक विद्यालय (ZPPS) है।
+
+SCHOOL_CATEGORY_ZPHS=
+यह एक जिला परिषद हाई स्कूल (ZPHS) है।
+
+CLASS_DISTINCTION_HI=
+यहां पर छात्र  $classHi कक्षा तक शिक्षा प्राप्त कर सकते हैं |
+
+CLASS_DISTINCTION=
+इसमें  $classLo से $classHi कक्षा तक की शिक्षा शामिल है। 
+
+MANAGEMENT=
+यह स्कूल  $management के प्रबंधन के तहत संचालित होता है|
+
+MEDIUM=
+इस स्कूल में विद्यार्थियों को  $medium भाषा के माध्यम से पढ़ाया जाता ह।
+
+SOURCE=
+ये विवरण 2011-12 के शैक्षणिक वर्ष के लिए नेशनल यूनिवर्सिटी ऑफ एजुकेशनल प्लानिंग एंड एडमिनिस्ट्रेशन (एनयूईपीए) द्वारा किए गए सर्वेक्षण पर आधारित हैं।
